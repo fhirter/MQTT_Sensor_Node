@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: MQTT_Sensor.c
+  checksum: ebfff9d8b7fc5285d464d2f6d6d4d5251102a88f7896bc18c01bd5da9b36cc55
+version: ""

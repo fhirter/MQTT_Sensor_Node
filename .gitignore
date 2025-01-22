@@ -55,3 +55,4 @@ build
 pico-examples
 pico-sdk
 CMakeCache.txt
+.vscode
