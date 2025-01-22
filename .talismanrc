@@ -2,7 +2,7 @@ fileignoreconfig:
 - filename: MQTT_Sensor.c
   checksum: ebfff9d8b7fc5285d464d2f6d6d4d5251102a88f7896bc18c01bd5da9b36cc55
 - filename: CMakeFiles/CMakeRuleHashes.txt
-checksum: b04f3e73de9fd4958b59d86fbc9217530a5f3f38865ed9e5abb448a7d4ebc49c
+  checksum: b04f3e73de9fd4958b59d86fbc9217530a5f3f38865ed9e5abb448a7d4ebc49c
 - filename: CMakeFiles/CMakeConfigureLog.yaml
   checksum: 89f82950aa4980be1b0a821619b26717e13b1c83b3fa468509a32161ecd645ce
 version: ""
